@@ -2,7 +2,7 @@
   "name": "01_rqm",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://igorosa.github.io/",
+  "homepage": "https://igorosa.github.io/Random-Quote-Machine",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-brands-svg-icons": "^5.9.0",
